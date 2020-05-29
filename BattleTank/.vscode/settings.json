@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/Users/macbookpro/Documents/Programming/C++/Projects/01_TankGame/BattleTank/.vscode": true,
+		"/Users/macbookpro/Documents/Programming/C++/Projects/01_TankGame/BattleTank/Content": true,
+		"/Users/macbookpro/Documents/Programming/C++/Projects/01_TankGame/BattleTank/Intermediate": true
+	}
+}
